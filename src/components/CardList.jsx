@@ -1,4 +1,4 @@
-// This is a CardLists component:
+// This is a CardLists components:
 import React from 'react';
 import Card from './Card.jsx';
 
