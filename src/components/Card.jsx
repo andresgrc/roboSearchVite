@@ -1,4 +1,4 @@
-// This is a card components:
+// This is a cards components:
 import React from 'react';
 
 const Card = ({ name, email, id }) => {
